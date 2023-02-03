@@ -1,0 +1,245 @@
+.container {
+  width: 60vw;
+}
+
+#head2 {
+  position: relative;
+  left: -8px;
+}
+
+#head1 {
+  position: relative;
+  left: -30px;
+  margin-bottom: 24px;
+}
+
+#company-icon {
+  float: left;
+  max-width: 23px;
+  max-height: 23px;
+  width: auto;
+  height: auto;
+  margin-right: 4px;
+}
+
+#company-name {
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 21px;
+  margin-bottom: 27px;
+}
+
+hr {
+  margin-bottom: 28px;
+}
+
+#hr-1 {
+  border: 1px solid #c8c8c8;
+}
+
+#hr-2 {
+  margin-bottom: 37px;
+}
+
+#div1 {
+  border-left: 5px solid #c74a4a;
+  padding: 0px;
+
+  margin: 0%;
+}
+
+#date {
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 21px;
+  color: #b0b0b1;
+}
+
+#flag {
+  float: left;
+  margin-right: 5px;
+  max-width: 18px;
+  max-height: 18px;
+  width: auto;
+  height: auto;
+}
+
+#priority {
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 12px;
+  color: #b0b0b1;
+}
+
+h2 {
+  font-family: "Source Sans Pro";
+  font-style: italic;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 15px;
+  margin-top: 23px;
+}
+
+#client-name {
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 10px;
+  line-height: 0px;
+}
+
+#client-email {
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 0px;
+  margin: 0px;
+}
+
+.btn {
+  width: 100px;
+  height: 22px;
+
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+
+  vertical-align: middle;
+  padding: 0%;
+}
+
+#btn-type {
+  background-color: #c74a4a;
+  border: 1px solid #c74a4a;
+  border-radius: 20px;
+}
+
+#btn-type-2 {
+  background-color: #1fd06e;
+  border: 1px solid #1fd06e;
+  border-radius: 20px;
+}
+
+#btn-feeling {
+  background-color: #e45f5f;
+  border: 1px solid #e45f5f;
+  border-radius: 20px;
+}
+
+#btn-feeling-2 {
+  background: #3da96d;
+  border: 1px solid #3da96d;
+  border-radius: 20px;
+}
+
+.btn-feel {
+  display: inline-block;
+  margin-right: 7px;
+  margin-bottom: 14px;
+}
+
+.btn-feel p {
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  color: #b0b0b1;
+  margin: 0px;
+}
+
+#cat1 {
+  box-sizing: border-box;
+
+  width: 100px;
+  height: 22px;
+
+  background: #ffffff;
+  border: 1px solid #8259d9;
+  border-radius: 5px;
+  color: #8259d9;
+}
+
+#cat2 {
+  box-sizing: border-box;
+
+  width: 100px;
+  height: 22px;
+
+  background: #ffffff;
+  border: 1px solid #8259d9;
+  border-radius: 5px;
+  color: #8259d9;
+}
+
+#cat3 {
+  box-sizing: border-box;
+
+  width: 100px;
+  height: 22px;
+
+  background: #ffffff;
+  border: 1px solid #8259d9;
+  border-radius: 5px;
+  color: #8259d9;
+}
+
+#cat4 {
+  box-sizing: border-box;
+
+  width: 100px;
+  height: 22px;
+
+  background: #ffffff;
+  border: 1px solid #d959b5;
+  border-radius: 5px;
+  color: #d959b5;
+}
+
+#icon1 {
+  margin-right: 20px;
+  margin-left: 20px;
+  text-align: center;
+  position: relative;
+  align-items: center;
+  vertical-align: middle;
+  bottom: -10px;
+}
+
+#icon2 {
+  margin-right: 20px;
+
+  text-align: center;
+  position: relative;
+  align-items: center;
+  vertical-align: middle;
+  bottom: -10px;
+}
+
+#icon1 p,
+#icon2 p {
+  width: 62px;
+  height: 26px;
+
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 21px;
+  color: #505050;
+}
+
+#div2 {
+  border-left: 5px solid #1fd06e;
+}
+
+.btn-2 {
+  left: 230px;
+}
